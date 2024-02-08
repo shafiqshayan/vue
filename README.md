@@ -101,7 +101,7 @@ Please make sure to read the [Issue Reporting Checklist](https://github.com/vuej
 
 Detailed changes for each release are documented in the [release notes](https://github.com/vuejs/vue/releases).
 
-## Stay In Touch
+## Stay in touch
 
 - [Twitter](https://twitter.com/vuejs)
 - [Blog](https://medium.com/the-vue-point)
